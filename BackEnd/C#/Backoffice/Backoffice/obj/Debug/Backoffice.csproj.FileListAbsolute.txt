@@ -1,0 +1,14 @@
+P:\Ap\ap2.2\BackEnd\C#\Backoffice\Backoffice\bin\Debug\Backoffice.exe.config
+P:\Ap\ap2.2\BackEnd\C#\Backoffice\Backoffice\bin\Debug\Backoffice.exe
+P:\Ap\ap2.2\BackEnd\C#\Backoffice\Backoffice\bin\Debug\Backoffice.pdb
+P:\Ap\ap2.2\BackEnd\C#\Backoffice\Backoffice\obj\Debug\Backoffice.csprojAssemblyReference.cache
+P:\Ap\ap2.2\BackEnd\C#\Backoffice\Backoffice\obj\Debug\Backoffice.Properties.Resources.resources
+P:\Ap\ap2.2\BackEnd\C#\Backoffice\Backoffice\obj\Debug\Backoffice.csproj.GenerateResource.cache
+P:\Ap\ap2.2\BackEnd\C#\Backoffice\Backoffice\obj\Debug\Backoffice.csproj.CoreCompileInputs.cache
+P:\Ap\ap2.2\BackEnd\C#\Backoffice\Backoffice\obj\Debug\Backoffice.exe
+P:\Ap\ap2.2\BackEnd\C#\Backoffice\Backoffice\obj\Debug\Backoffice.pdb
+P:\Ap\ap2.2\BackEnd\C#\Backoffice\Backoffice\obj\Debug\Backoffice.home.resources
+P:\Ap\ap2.2\BackEnd\C#\Backoffice\Backoffice\obj\Debug\Backoffice.partieAdherent.resources
+P:\Ap\ap2.2\BackEnd\C#\Backoffice\Backoffice\obj\Debug\Backoffice.partieTest.resources
+P:\Ap\ap2.2\BackEnd\C#\Backoffice\Backoffice\obj\Debug\Backoffice.partieArticle.resources
+P:\Ap\ap2.2\BackEnd\C#\Backoffice\Backoffice\obj\Debug\Backoffice.gestionEntreprise.resources
