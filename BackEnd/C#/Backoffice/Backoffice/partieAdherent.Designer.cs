@@ -31,6 +31,7 @@
             this.labelTitre = new System.Windows.Forms.Label();
             this.btPartieAdherent = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
+            this.btRetour = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // labelTitre
@@ -71,6 +72,18 @@
             this.button1.TabIndex = 5;
             this.button1.Text = "GESTION ADHERENT";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.Button1_Click);
+            // 
+            // btRetour
+            // 
+            this.btRetour.Font = new System.Drawing.Font("Montserrat Light", 8.249999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btRetour.Location = new System.Drawing.Point(12, 12);
+            this.btRetour.Name = "btRetour";
+            this.btRetour.Size = new System.Drawing.Size(75, 23);
+            this.btRetour.TabIndex = 14;
+            this.btRetour.Text = "RETOUR";
+            this.btRetour.UseVisualStyleBackColor = true;
+            this.btRetour.Click += new System.EventHandler(this.BtRetour_Click);
             // 
             // partieAdherent
             // 
@@ -78,6 +91,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btRetour);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.btPartieAdherent);
             this.Controls.Add(this.labelTitre);
@@ -93,5 +107,6 @@
         private System.Windows.Forms.Label labelTitre;
         private System.Windows.Forms.Button btPartieAdherent;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btRetour;
     }
 }

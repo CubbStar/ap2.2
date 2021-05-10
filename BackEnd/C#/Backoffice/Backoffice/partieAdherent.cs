@@ -24,5 +24,21 @@ namespace Backoffice
             objgestionEntreprise.FormClosed += (s, args) => this.Close();
             objgestionEntreprise.Show();
         }
+
+        private void Button1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            gestionAdherent objgestionAdherent = new gestionAdherent();
+            objgestionAdherent.FormClosed += (s, args) => this.Close();
+            objgestionAdherent.Show();
+        }
+
+        private void BtRetour_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            home objhome = new home();
+            objhome.FormClosed += (s, args) => this.Close();
+            objhome.Show();
+        }
     }
 }

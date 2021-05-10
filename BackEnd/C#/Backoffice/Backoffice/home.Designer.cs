@@ -47,11 +47,11 @@
             // 
             this.labelTitre.AutoSize = true;
             this.labelTitre.Font = new System.Drawing.Font("Montserrat Light", 36F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelTitre.Location = new System.Drawing.Point(223, 25);
+            this.labelTitre.Location = new System.Drawing.Point(130, 24);
             this.labelTitre.Name = "labelTitre";
-            this.labelTitre.Size = new System.Drawing.Size(305, 66);
+            this.labelTitre.Size = new System.Drawing.Size(500, 66);
             this.labelTitre.TabIndex = 2;
-            this.labelTitre.Text = "ACTU SECU";
+            this.labelTitre.Text = "CYBERPROTECTIVE";
             // 
             // btPartieAdherent
             // 
